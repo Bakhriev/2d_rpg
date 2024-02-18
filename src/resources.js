@@ -4,7 +4,7 @@ class Resources {
 		this.toLoad = {
 			sky: "/sprites/sky.png",
 			ground: "/sprites/ground.png",
-			hero: "/sprites/hero.png",
+			hero: "/sprites/hero-sheet.png",
 			shadow: "/sprites/shadow.png"
 		};
 
